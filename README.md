@@ -1,4 +1,4 @@
-# my-cv-page
+# MY-CV-PAGE
 
 I created my CV page, page about me
 
@@ -9,3 +9,5 @@ I created favicon for the site and my avatar
 I added three images and a link to the video in Youtube
 
 I used CSS for styling
+
+I added links to my social networks
