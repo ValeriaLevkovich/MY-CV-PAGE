@@ -3,7 +3,7 @@
 I created my CV page, page about me
 
 
-I used to HTML CSS
+I used to HTML
 
 I created favicon for the site and my avatar
 
