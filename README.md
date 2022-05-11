@@ -14,4 +14,4 @@ I used CSS for styling
 I added links to my social networks
 
 
-My page: http://127.0.0.1:5500/index.html
+My page: https://valerialevkovich.github.io/MY-CV-PAGE/
